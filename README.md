@@ -4,7 +4,7 @@ I'm a Full-Stack Developer | Writes Codes & Blogs.
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinand-das/)
+<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/abhinand-das/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@abhidas)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8772575/abhi-das)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/abhi.das.zanty)
@@ -19,3 +19,11 @@ I'm a Full-Stack Developer | Writes Codes & Blogs.
 <img align="left" alt="symfony" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" />
 <br>
 <br>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Improving the performance of MongoDB aggregation](https://medium.com/@abhidas/improving-the-performance-of-mongodb-aggregation-d223a2b19f11?source=user_profile---------0----------------------------)
+- [How Uber, Chrome, and Netflix take advantage of the idleness aversion?](https://uxdesign.cc/how-uber-chrome-and-netflix-made-advantage-of-the-psychology-of-idleness-aversion-a963cf3f2a6d)
+- [Zapier API Integration](https://medium.com/@abhidas/zapier-api-integration-b143d3f894e9)
+- [Creating Avengers Command To Assemble Applications](https://medium.com/@abhidas/creating-avengers-command-to-assemble-applications-877504c91315)
+- [How I messed up my interview with Time Travel](https://medium.com/@abhidas/how-i-messed-up-my-interview-with-time-travel-2cd33b0daf4c)
+<!-- BLOG-POST-LIST:END -->
