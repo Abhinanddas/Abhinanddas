@@ -1,7 +1,7 @@
 ### Hello World 👋
 I'm a Full-Stack Developer | Writes Codes & Blogs.
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🔭 Working on multiple frontend and backend project using LAMP Stack.
+- 🌱 Learning Data Structures And Algorithms. 
 <br>
 
 ## Connect with me
