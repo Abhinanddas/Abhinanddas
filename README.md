@@ -25,11 +25,11 @@ I'm a Full-Stack Developer | Writes Codes & Blogs.
 
 ## Expertise
 
-<img align="left" alt="php" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" />
-<img align="left" alt="laravel" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png" />
-<img align="left" alt="mysql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-five-advantages-disadvantages-mysql-4.png" />
-<img align="left" alt="mongo" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" />
-<img align="left" alt="symfony" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" />
+<img align="left" alt="php" src="https://pngimg.com/uploads/php/php_PNG48.png" />
+<img align="left" alt="mongo" src="https://store-images.s-microsoft.com/image/apps.12235.d167ffaf-d6b9-41aa-b07c-a5e72ec09aa0.f6657533-9443-481d-b53c-b45afdfdfe53.80296830-3a2d-4fed-8b9d-f090c14aaebb" />
+<img align="left" alt="mysql" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" alt="laravel" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-128.png" />
+<img align="left" alt="symfony" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/symfony_black_01.png?itok=mh6RAYNa" />
 <br>
 <br>
 
